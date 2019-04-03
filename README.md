@@ -6,5 +6,6 @@ I learn how to use the UIGestureRecognizer, to retrieve user’s acctions on the
 	Dynamic Behavior
 	Gestures
 	CoreMotion
+	
+<img src="https://github.com/vkozhemi/MotionCube/raw/master/img/Cube.gif" width="300">
 
-![Image alt](https://github.com/vkozhemi/MotionCube/raw/master/img/Cube.gif)
